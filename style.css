@@ -9,6 +9,14 @@ h1{
   font-family: Lucida Handwriting;
   letter-spacing: 3px;
 }
+
+h2{
+  color: white;
+  font-size: 200%;
+  font-family: Georgia;
+  letter-spacing: 3px;
+}
+
 img{
   width: 25%;
   border-radius: 30%;
